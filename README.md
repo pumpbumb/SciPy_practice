@@ -1,3 +1,3 @@
 # SciPy_Practice
 
-Study Scipy.
+Study SciPy.
